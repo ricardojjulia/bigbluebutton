@@ -47,7 +47,7 @@ GEM
       ast (~> 2.4.1)
       racc
     racc (1.8.1)
-    rack (2.2.8.1)
+    rack (2.2.25)
     rack-protection (3.1.0)
       rack (~> 2.2, >= 2.2.4)
     rainbow (3.1.1)
